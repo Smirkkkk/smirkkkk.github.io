@@ -1,55 +1,18 @@
 main:
-  - title: "Learning 3D Representations from Procedural 3D Programs"
-    authors: "Xuweiyi Chen, Zezhou Cheng"
-    pdf: https://arxiv.org/abs/2411.17467
-    page: https://point-mae-zero.cs.virginia.edu/
-    dataset: https://huggingface.co/datasets/uva-cv-lab/Point-MAE-Zero
-    code: https://point-mae-zero.cs.virginia.edu/
-    image: ./assets/img/teaser_noise.jpg
-    conference_short: SynData4CV @ CVPR2025
+  - title: "Empowering Dynamic Urban Navigation with Stereo and Mid-Level Vision"
+    authors: "Wentao Zhou, Xuweiyi Chen, Vignesh Rajagopal, Jeffrey Chen, Rohan Chandra, Zezhou Cheng"
+    page: https://smirkkkk.github.io/stereowalk/
+    image: ./assets/img/stereowalk.png
+    conference_short: arxiv
   
-  - title: "Probing the Mid-level Vision Capabilities of Self-Supervised Learning"
-    authors: "Xuweiyi Chen, Markus Marks, Zezhou Cheng"
-    pdf: https://arxiv.org/abs/2411.17474
-    page: https://midvision-probe.cs.virginia.edu/
-    dataset: https://midvision-probe.cs.virginia.edu/
-    code: https://midvision-probe.cs.virginia.edu/
-    image: ./assets/img/teaser_probing.jpg
-    conference_short: CVPR 2025
+  - title: "WildRayZer: Self-supervised Large View Synthesis in Dynamic Environments"
+    authors: "Xuweiyi Chen, Wentao Zhou, Zezhou Cheng"
+    image: ./assets/img/wildrayzer.png
+    conference_short: arxiv
 
-  - title: "Multi-Object Hallucination in Vision-Language Models"
-    authors: "Xuweiyi Chen*, Ziqiao Ma*, Xuejun Zhang*, Sihan Xu, Shengyi Qian, Jianing Yang, David Fouhey, Joyce Y. Chai"
-    pdf: https://arxiv.org/abs/2407.06192
-    page: https://multi-object-hallucination.github.io/
-    dataset: https://huggingface.co/datasets/sled-umich/ROPE
-    code: https://github.com/sled-group/moh
-    image: ./assets/img/benchmark.jpg
-    conference_short: NeurIPS 2024
-
-  - title: "3D-GRAND: A Million-Scale Dataset for 3D-LLMs with Better Grounding and Less Hallucination"
-    authors: "Jianing Yang*, Xuweiyi Chen*, Nikhil Madaan, Madhavan Iyengar, Shengyi Qian, David F. Fouhey, Joyce Chai"
-    pdf: https://arxiv.org/abs/2406.05132
-    page: https://3d-grand.github.io/
-    livedemo: https://3553d6bb6bca62cbc6.gradio.live/
-    image: ./assets/img/teaser_pic_3d_grand.jpg
-    conference_short: CVPR 2025
-    
-  - title: "UniCtrl: Improving the Spatiotemporal Consistency of Text-to-Video Diffusion Models via Training-Free Unified Attention Control"
-    authors: "Tian Xia*, Xuweiyi Chen*, Sihan Xu"
-    pdf: https://arxiv.org/pdf/2403.02332.pdf
-    code: https://github.com/XuweiyiChen/UniCtrl
-    page: https://unified-attention-control.github.io/
-    livedemo: https://huggingface.co/spaces/Xuweiyi/UniCtrl
-    image: ./assets/img/teaser_pic.jpg
-    conference_short: TMLR
-    
-  - title: "LLM-Grounder: Open-Vocabulary 3D Visual Grounding with Large Language Model as an Agent"
-    authors: "Jianing Yang*, Xuweiyi Chen*, Shengyi Qian, Nikhil Madaan, Madhavan Iyengar, David F. Fouhey, Joyce Chai"
-    conference_short: ICRA 2024
-    conference: IEEE Robotics and Automation Society, 2024.
-    pdf: https://arxiv.org/pdf/2309.12311.pdf
-    code: https://github.com/sled-group/chat-with-nerf
-    page: https://chat-with-nerf.github.io/
-    livedemo: http://sled-whistler.eecs.umich.edu:7777/
-    video: https://www.youtube.com/watch?v=eO-Vaf-1R1s&feature=youtu.be
-    image: ./assets/img/llm-grounder.png
+  - title: "Point-MoE: Towards Cross-Domain Generalization in 3D Semantic Segmentation via Mixture-of-Experts"
+    authors: "Xuweiyi Chen, Wentao Zhou, Aruni RoyChowdhury, Zezhou Cheng"
+    pdf: https://arxiv.org/abs/2505.23926
+    page: https://uva-computer-vision-lab.github.io/point-moe/
+    image: ./assets/img/pointmoe.jpg
+    conference_short: arxiv
