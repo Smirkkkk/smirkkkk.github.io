@@ -14,5 +14,5 @@ main:
     authors: "Xuweiyi Chen, Wentao Zhou, Aruni RoyChowdhury, Zezhou Cheng"
     pdf: https://arxiv.org/abs/2505.23926
     page: https://uva-computer-vision-lab.github.io/point-moe/
-    image: ./assets/img/pointmoe.jpg
+    image: ./assets/img/pointmoe.png
     conference_short: arxiv
