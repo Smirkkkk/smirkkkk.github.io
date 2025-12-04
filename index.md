@@ -10,6 +10,6 @@ Before joining UVA, I completed Bachelor of Computer Science and Engineering at 
 
 ## Research Interests
 
-My research centers on 3D Computer Vision.
+I am broadly interested in efficient machine learning and computer vision.
 
 {% include_relative _includes/publications.md %}
