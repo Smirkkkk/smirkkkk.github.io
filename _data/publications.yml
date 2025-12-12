@@ -1,7 +1,9 @@
 main:
   - title: "Empowering Dynamic Urban Navigation with Stereo and Mid-Level Vision"
     authors: "Wentao Zhou, Xuweiyi Chen, Vignesh Rajagopal, Jeffrey Chen, Rohan Chandra, Zezhou Cheng"
-    page: https://smirkkkk.github.io/stereowalk/
+    pdf: https://arxiv.org/abs/2512.10956
+    page: https://www.cs.virginia.edu/~tsx4zn/stereowalk/
+    code: https://github.com/UVA-Computer-Vision-Lab/stereo-walker
     image: ./assets/img/stereowalk.png
     conference_short: arxiv
   
