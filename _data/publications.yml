@@ -17,4 +17,4 @@ main:
     pdf: https://arxiv.org/abs/2505.23926
     page: https://uva-computer-vision-lab.github.io/point-moe/
     image: ./assets/img/pointmoe.png
-    conference_short: arxiv
+    conference_short: ICLR 2026
