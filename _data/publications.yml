@@ -9,6 +9,7 @@ main:
   
   - title: "WildRayZer: Self-supervised Large View Synthesis in Dynamic Environments"
     authors: "Xuweiyi Chen, Wentao Zhou, Zezhou Cheng"
+    pdf: https://arxiv.org/abs/2601.10716
     image: ./assets/img/wildrayzer.png
     conference_short: arxiv
 
