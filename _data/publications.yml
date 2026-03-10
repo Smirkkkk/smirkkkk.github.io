@@ -10,6 +10,7 @@ main:
   - title: "WildRayZer: Self-supervised Large View Synthesis in Dynamic Environments"
     authors: "Xuweiyi Chen, Wentao Zhou, Zezhou Cheng"
     pdf: https://arxiv.org/abs/2601.10716
+    data: https://huggingface.co/datasets/uva-cv-lab/Dynamic-RE10K
     image: ./assets/img/wildrayzer.png
     conference_short: CVPR 2026
 
@@ -17,5 +18,6 @@ main:
     authors: "Xuweiyi Chen, Wentao Zhou, Aruni RoyChowdhury, Zezhou Cheng"
     pdf: https://arxiv.org/abs/2505.23926
     page: https://uva-computer-vision-lab.github.io/point-moe/
+    code: https://github.com/UVA-Computer-Vision-Lab/point_moe/
     image: ./assets/img/pointmoe.png
     conference_short: ICLR 2026
