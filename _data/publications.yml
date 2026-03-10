@@ -10,7 +10,8 @@ main:
   - title: "WildRayZer: Self-supervised Large View Synthesis in Dynamic Environments"
     authors: "Xuweiyi Chen, Wentao Zhou, Zezhou Cheng"
     pdf: https://arxiv.org/abs/2601.10716
-    data: https://huggingface.co/datasets/uva-cv-lab/Dynamic-RE10K
+    page: https://wild-rayzer.cs.virginia.edu/
+    dataset: https://huggingface.co/datasets/uva-cv-lab/Dynamic-RE10K
     image: ./assets/img/wildrayzer.png
     conference_short: CVPR 2026
 
