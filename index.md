@@ -13,3 +13,5 @@ Before joining UVA, I completed Bachelor of Computer Science and Engineering at 
 I am broadly interested in efficient machine learning and computer vision.
 
 {% include_relative _includes/publications.md %}
+
+{% include_relative _includes/services.md %}
