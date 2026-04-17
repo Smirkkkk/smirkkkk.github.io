@@ -11,9 +11,10 @@ main:
     authors: "Xuweiyi Chen, Wentao Zhou, Zezhou Cheng"
     pdf: https://arxiv.org/abs/2601.10716
     page: https://wild-rayzer.cs.virginia.edu/
+    code: https://github.com/UVA-Computer-Vision-Lab/wild-rayzer
     dataset: https://huggingface.co/datasets/uva-cv-lab/Dynamic-RE10K
     image: ./assets/img/wildrayzer.png
-    conference_short: CVPR 2026
+    conference_short: CVPR 2026 Highlight
 
   - title: "Point-MoE: Towards Cross-Domain Generalization in 3D Semantic Segmentation via Mixture-of-Experts"
     authors: "Xuweiyi Chen, Wentao Zhou, Aruni RoyChowdhury, Zezhou Cheng"
