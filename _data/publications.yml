@@ -13,7 +13,7 @@ main:
     page: https://wild-rayzer.cs.virginia.edu/
     code: https://github.com/UVA-Computer-Vision-Lab/wild-rayzer
     dataset: https://huggingface.co/datasets/uva-cv-lab/Dynamic-RE10K
-    demo: https://huggingface.co/spaces/uva-cv-lab/wildrayzer
+    livedemo: https://huggingface.co/spaces/uva-cv-lab/wildrayzer
     image: ./assets/img/wildrayzer.png
     conference_short: CVPR 2026 Highlight
 
