@@ -1,11 +1,11 @@
 main:
-  - title: "Empowering Dynamic Urban Navigation with Stereo and Mid-Level Vision"
+  - title: "Stereo4DWalker: Learning 4D-aware Embodied Urban Navigation from Internet Stereo Videos"
     authors: "Wentao Zhou, Xuweiyi Chen, Vignesh Rajagopal, Jeffrey Chen, Rohan Chandra, Zezhou Cheng"
     pdf: https://arxiv.org/abs/2512.10956
     page: https://www.cs.virginia.edu/~tsx4zn/stereowalk/
     code: https://github.com/UVA-Computer-Vision-Lab/stereo-walker
     image: ./assets/img/stereowalk.png
-    conference_short: arxiv
+    conference_short: IROS 2026
   
   - title: "WildRayZer: Self-supervised Large View Synthesis in Dynamic Environments"
     authors: "Xuweiyi Chen, Wentao Zhou, Zezhou Cheng"
