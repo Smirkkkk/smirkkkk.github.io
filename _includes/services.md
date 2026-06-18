@@ -3,6 +3,10 @@
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
+  <li><a href="https://neurips.cc/"><autocolor>NIPS 2026</autocolor></a>
+  </li>
+  <li><a href="https://www.corl.org/"><autocolor>CoRL 2026</autocolor></a>
+  </li>
   <li><a href="https://www.ieee-ras.org/publications/ra-l/"><autocolor>RA-L 2026</autocolor></a>
   </li>
 </ul>
