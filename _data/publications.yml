@@ -9,7 +9,9 @@ main:
 
   - title: "Recurrent Point Transformer via Test-Time Training"
     authors: "<strong>Wentao Zhou</strong>, Xuweiyi Chen, Charles Saunders, Aruni RoyChowdhury, Zezhou Cheng"
-    conference_short: NeurIPS 2026
+    image: ./assets/img/pointtt.webp
+    image_fit: contain
+    conference_short: In submission
 
   - title: "Stereo4DWalker: Learning 4D-aware Embodied Urban Navigation from Internet Stereo Videos"
     authors: "<strong>Wentao Zhou</strong>, Xuweiyi Chen, Vignesh Rajagopal, Jeffrey Chen, Rohan Chandra, Zezhou Cheng"
