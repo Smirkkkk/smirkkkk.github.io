@@ -1,6 +1,18 @@
 main:
+  - title: "Mutually Adversarial Self-Training with Evolving Data for Unified Multimodal Models"
+    authors: "<strong>Wentao Zhou*</strong>, Weijie Gan*, Jiayun Wang"
+    pdf: https://arxiv.org/pdf/2609.36224
+    image: ./assets/img/mate.png
+    image_fit: contain
+    conference_short: arXiv 2026
+    conference: "arXiv preprint · * Equal contribution"
+
+  - title: "Recurrent Point Transformer via Test-Time Training"
+    authors: "<strong>Wentao Zhou</strong>, Xuweiyi Chen, Charles Saunders, Aruni RoyChowdhury, Zezhou Cheng"
+    conference_short: NeurIPS 2026
+
   - title: "Stereo4DWalker: Learning 4D-aware Embodied Urban Navigation from Internet Stereo Videos"
-    authors: "Wentao Zhou, Xuweiyi Chen, Vignesh Rajagopal, Jeffrey Chen, Rohan Chandra, Zezhou Cheng"
+    authors: "<strong>Wentao Zhou</strong>, Xuweiyi Chen, Vignesh Rajagopal, Jeffrey Chen, Rohan Chandra, Zezhou Cheng"
     pdf: https://arxiv.org/abs/2512.10956
     page: https://www.cs.virginia.edu/~tsx4zn/stereowalk/
     code: https://github.com/UVA-Computer-Vision-Lab/stereo-walker
@@ -8,7 +20,7 @@ main:
     conference_short: IROS 2026
   
   - title: "WildRayZer: Self-supervised Large View Synthesis in Dynamic Environments"
-    authors: "Xuweiyi Chen, Wentao Zhou, Zezhou Cheng"
+    authors: "Xuweiyi Chen, <strong>Wentao Zhou</strong>, Zezhou Cheng"
     pdf: https://arxiv.org/abs/2601.10716
     page: https://wild-rayzer.cs.virginia.edu/
     code: https://github.com/UVA-Computer-Vision-Lab/wild-rayzer
@@ -17,8 +29,8 @@ main:
     image: ./assets/img/wildrayzer.png
     conference_short: CVPR 2026 Highlight
 
-  - title: "Point-MoE: Towards Cross-Domain Generalization in 3D Semantic Segmentation via Mixture-of-Experts"
-    authors: "Xuweiyi Chen, Wentao Zhou, Aruni RoyChowdhury, Zezhou Cheng"
+  - title: "Point-MoE: Large-Scale Multi-Dataset Training with Mixture-of-Experts for 3D Semantic Segmentation"
+    authors: "Xuweiyi Chen, <strong>Wentao Zhou</strong>, Aruni RoyChowdhury, Zezhou Cheng"
     pdf: https://arxiv.org/abs/2505.23926
     page: https://uva-computer-vision-lab.github.io/point-moe/
     code: https://github.com/UVA-Computer-Vision-Lab/point_moe/

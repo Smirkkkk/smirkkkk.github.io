@@ -1,19 +1,20 @@
 # Basic Information 
 title: Wentao Zhou
-position: M.S. Student
-affiliation: University of Virginia
-email: tsx4zn (at) virginia.edu
+position: Ph.D. Student
+affiliation: Georgia Institute of Technology
+affiliation_link: https://www.gatech.edu/
+email: wentao (at) gatech.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: Wentao Zhou, multimodal learning, reinforcement learning, computer vision, 3D vision
+description: Wentao Zhou is a Computer Science Ph.D. student at Georgia Tech researching multimodal learning, reinforcement learning post-training, and efficient 3D computer vision.
+canonical: https://zwt.zip/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?user=F7ExDisAAAAJ
-cv_link: 
+cv_link: ./assets/files/Wentao_Zhou_CV.pdf
 github_link: https://github.com/Smirkkkk
 linkedin: 
 twitter: 

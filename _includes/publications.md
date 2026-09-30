@@ -7,16 +7,21 @@
 
 <li>
 <div class="pub-row">
+  {% if link.image %}
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    {% if link.image %} 
-    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
-    {% endif %}
+    <img src="{{ link.image }}" alt="{{ link.title | escape }} teaser" class="teaser img-fluid z-depth-1" loading="lazy"{% if link.image_fit %} style="object-fit: {{ link.image_fit }};"{% endif %}>
     {% if link.conference_short %} 
     <abbr class="badge">{{ link.conference_short }}</abbr>
     {% endif %}
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
+  {% endif %}
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;{% unless link.image %}width: 100%;{% endunless %}">
+      {% unless link.image %}
+      {% if link.conference_short %}
+      <span class="badge" style="background-color: var(--global-theme-color);margin-bottom: 0.5rem;">{{ link.conference_short }}</span>
+      {% endif %}
+      {% endunless %}
+      <div class="title">{% if link.pdf %}<a href="{{ link.pdf }}">{{ link.title }}</a>{% else %}{{ link.title }}{% endif %}</div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em>
       </div>
